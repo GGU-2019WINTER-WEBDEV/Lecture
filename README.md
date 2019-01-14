@@ -3,6 +3,7 @@
 
 OOP개념 강의자료 입니다.
 
+* constructor(생성자)
 * static
 * final
 * this
